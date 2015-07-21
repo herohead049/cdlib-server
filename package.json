@@ -1,6 +1,6 @@
 {
     "name": "cdlib-server",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "server utils",
     "main": "index.js",
     "author": "Craig David",
