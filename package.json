@@ -1,0 +1,22 @@
+{
+    "name": "cd-server",
+    "version": "0.0.1",
+    "description": "Personal use only",
+    "main": "index.js",
+    "author": "Craig David",
+    "dependencies": {
+        "ip": "^0.3.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/herohead049/cd-server.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/herohead049/cd-server/issues"
+    },
+    "homepage": "https://github.com/herohead049/cd-server#readme",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
